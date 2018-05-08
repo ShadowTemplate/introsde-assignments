@@ -33,7 +33,7 @@ and run each assignment.
 * [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html) - 
 Programming language
 * [WSDL](https://www.w3.org/TR/wsdl/) - Interface definition language
-* [Heroku](https://www.heroku.com/) - Web framework and 
+* [Heroku](https://www.heroku.com/) - Web framework
 * [Ant](https://ant.apache.org/) - Build automation
 * [Ivy](https://ant.apache.org/ivy/) - Dependency manager
 * [Lombok](https://projectlombok.org/) - Reduce Java boilerplate
