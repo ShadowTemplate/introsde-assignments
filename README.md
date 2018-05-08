@@ -31,14 +31,16 @@ and run each assignment.
 ## Building tools
 
 * [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html) - Programming language
+* [Heroku](https://www.heroku.com/) - Web framework
 * [Ant](https://ant.apache.org/) - Build automation
 * [Ivy](https://ant.apache.org/ivy/) - Dependency manager
 * [Lombok](https://projectlombok.org/) - Reduce Java boilerplate
+* [Jersey](https://jersey.github.io/) - RESTful web services
 * [JAXB](http://www.oracle.com/technetwork/articles/javase/index-140168.html) - 
 XML Binding 
+* [XPath](https://www.w3.org/TR/xpath-30/) - Query language 
 * [Jackson](http://jackson.codehaus.org/Home) - JSON parser/writer and POJOs 
 marshalling/unmarshalling
-* [Jersey](https://jersey.github.io/) - RESTful web services
 * [EclipseLink](https://www.eclipse.org/eclipselink/) - JPA
 * [Xerial SQLite JDBC Driver](https://github.com/xerial/sqlite-jdbc) - JDBC Driver
 
