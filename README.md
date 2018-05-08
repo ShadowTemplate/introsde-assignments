@@ -5,8 +5,8 @@ and Engineering. Please refer to each of the following repositories to get
 further details:
 * [Assignment 1](https://github.com/ShadowTemplate/introsde-2016-assignment-1)
 * [Assignment 2](https://github.com/ShadowTemplate/introsde-2016-assignment-2)
-* [Assignment 3 - Server](https://github.com/ShadowTemplate/introsde-2016-assignment-3-server)
 * [Assignment 3 - Client](https://github.com/ShadowTemplate/introsde-2016-assignment-3-client) 
+* [Assignment 3 - Server](https://github.com/ShadowTemplate/introsde-2016-assignment-3-server)
 
 ---
 ## Information
@@ -30,19 +30,23 @@ and run each assignment.
 ---
 ## Building tools
 
-* [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html) - Programming language
-* [Heroku](https://www.heroku.com/) - Web framework
+* [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html) - 
+Programming language
+* [WSDL](https://www.w3.org/TR/wsdl/) - Interface definition language
+* [Heroku](https://www.heroku.com/) - Web framework and 
 * [Ant](https://ant.apache.org/) - Build automation
 * [Ivy](https://ant.apache.org/ivy/) - Dependency manager
 * [Lombok](https://projectlombok.org/) - Reduce Java boilerplate
 * [Jersey](https://jersey.github.io/) - RESTful web services
+* [SOAP](https://www.w3.org/TR/soap/) - XML web services
 * [JAXB](http://www.oracle.com/technetwork/articles/javase/index-140168.html) - 
 XML Binding 
 * [XPath](https://www.w3.org/TR/xpath-30/) - Query language 
 * [Jackson](http://jackson.codehaus.org/Home) - JSON parser/writer and POJOs 
 marshalling/unmarshalling
 * [EclipseLink](https://www.eclipse.org/eclipselink/) - JPA
-* [Xerial SQLite JDBC Driver](https://github.com/xerial/sqlite-jdbc) - JDBC Driver
+* [Xerial SQLite JDBC Driver](https://github.com/xerial/sqlite-jdbc) - JDBC 
+Driver
 
 ---
 ## Contributing
