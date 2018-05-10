@@ -19,7 +19,7 @@ further details:
 
 **Development year(s)**: `2016`
 
-**Authors**: [ShadowTemplate](https://github.com/ShadowTemplate)
+**Author(s)**: [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
 ## Getting Started
